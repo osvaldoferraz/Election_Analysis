@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#specific files
+Print_codes.py
+Python_practice.py
+Python_practice_2.py
+SkillDrill.py
+SkillDrill_2.py
+SkillDrill_3.py
