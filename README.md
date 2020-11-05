@@ -13,7 +13,7 @@
 - Software: Phyton 3.6.7, Visual Studio Code 1.47.1
 
 ## Summary
-The analysys of the election shows that:
+The analysis of the election shows that:
 - There were 369,711 votes cast in the election
 - The candidates were:
     - Charles Casper Stockham
