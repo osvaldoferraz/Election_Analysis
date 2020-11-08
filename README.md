@@ -34,15 +34,11 @@ The Colorado Board of Elections now wants to know:
 
 ## Challenge Summary
 This analysis of the election shows that:
-- The counties are:
-    - Jefferson
-    - Denver
-    - Arapahoe
 - The county turnout (percentage) and number of votes are:
-    - Jefferson: turnout of 10.5% and 38,855 number of votes
-    - Denver: turnout of 82.8% and 306,055 number of votes
-    - Arapahoe: turnout of 6.7% and 27,801 number of votes
+    - Jefferson: turnout of 10.5% and 38,855 number of votes.
+    - Denver: turnout of 82.8% and 306,055 number of votes.
+    - Arapahoe: turnout of 6.7% and 27,801 number of votes.
 - The county with the highest turnout:
-    - Denver had the highest turnout: 82.8%
+    - **Denver** had the highest turnout: **82.8%**.
     
     
