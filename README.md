@@ -41,10 +41,20 @@ The analysis of the election shows that:
 ## Summary
 It is important to notice that this code was written to be versatile, and it can be used in any county, with any number of candidates.
 As the database file (CSV) has the same format (Ballot ID, County, Candidate as headers), the code will run flawlessly for any number of counties and/or candidates.
-As an example, you can see below that I modified the original CSV file where:
-    1. I added a fourth candidate, "Buffallo Bill"
-    2. I added a fourth County, "Rockwell". 
+As an example, you can see below that I modified the original CSV file (election_results_mod.csv), where:
+
+1. I added a fourth candidate, "Buffallo Bill"
+2. I added a fourth County, "Rockwell". 
+
 After running the code, as it is, here are the results:
+
+1. County of Rockweel shows up on the County Votes list with 0.6% Turnout and 2,285 votes.
+2. Candidate Bufallo Bill has 0.0% of votes, and 167 number of votes
+
+Below is a snapshot of the Terminal
+![Screen Shot 2020-11-08 at 4 19 54 PM](https://user-images.githubusercontent.com/72593264/98485837-e8f8ae00-21de-11eb-9d82-c84d47c42d1e.png)
+
+
 
 
 
