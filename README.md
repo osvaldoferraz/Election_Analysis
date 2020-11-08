@@ -29,8 +29,8 @@ The analysis of the election shows that:
 ## Challenge Overview
 The Colorado Board of Elections now wants to know:
 1. The voter turnout for each county
-2. The percentage of votes from each county out of the total count
-3. The county with the highest turnout
+    - The percentage of votes from each county out of the total count
+2. The county with the highest turnout
 
 ## Challenge Summary
 This analysis of the election shows that:
