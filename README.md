@@ -43,6 +43,6 @@ This analysis of the election shows that:
     - Denver: turnout of 82.8% and 306,055 number of votes
     - Arapahoe: turnout of 6.7% and 27,801 number of votes
 - The county with the highest turnout:
-    - Denver had the highest turnout - 82.8%
+    - Denver had the highest turnout: 82.8%
     
     
