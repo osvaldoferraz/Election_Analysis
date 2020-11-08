@@ -39,6 +39,13 @@ The analysis of the election shows that:
     - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
     
 ## Summary
+It is important to notice that this code was written to be versatile, and it can be used in any county, with any number of candidates.
+As the database file (CSV) has the same format (Ballot ID, County, Candidate as headers), the code will run flawlessly for any number of counties and/or candidates.
+As an example, you can see below that I modified the original CSV file where:
+    1. I added a fourth candidate, "Buffallo Bill"
+    2. I added a fourth County, "Rockwell". 
+After running the code, as it is, here are the results:
+
 
 
 
