@@ -52,6 +52,7 @@ After running the code, as it is, here are the results:
 2. Candidate Bufallo Bill has 0.0% of votes, and 167 number of votes
 
 Below is a snapshot of the Terminal
+
 ![Screen Shot 2020-11-08 at 4 19 54 PM](https://user-images.githubusercontent.com/72593264/98485837-e8f8ae00-21de-11eb-9d82-c84d47c42d1e.png)
 
 
