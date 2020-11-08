@@ -27,5 +27,22 @@ The analysis of the election shows that:
     - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
     
 ## Challenge Overview
+The Colorado Board of Elections now wants to know:
+1. The voter turnout for each county
+2. The percentage of votes from each county out of the total count
+3. The county with the highest turnout
 
 ## Challenge Summary
+This analysis of the election shows that:
+- The counties are:
+    - Jefferson
+    - Denver
+    - Arapahoe
+- The county turnout (percentage) and number of votes are:
+    - Jefferson: turnout of 10.5% and 38,855 number of votes
+    - Denver: turnout of 82.8% and 306,055 number of votes
+    - Arapahoe: turnout of 6.7% and 27,801 number of votes
+- The county with the highest turnout:
+    - Denver had the highest turnout - 82.8%
+    
+    
