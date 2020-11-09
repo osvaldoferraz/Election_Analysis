@@ -55,7 +55,7 @@ Below is a snapshot of the Terminal
 
 ![Screen Shot 2020-11-08 at 4 19 54 PM](https://user-images.githubusercontent.com/72593264/98485837-e8f8ae00-21de-11eb-9d82-c84d47c42d1e.png)
 
-If it is in the interest of the Election Comission, we would be ready to use this code in any other jurisdiction that the Election Comission oversees.
+If it is in the interest of the Colorado Board of Elections, we would be ready to use this code in any other jurisdiction that the this board oversees.
 
 
 
